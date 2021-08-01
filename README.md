@@ -7,13 +7,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qazimaazarshad" alt="qazimaazarshad" /></a> </p>
 
 <img align="right" alt="Coding" width="210" height="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
-- 🌱 I’m currently learning **React-Redux**
 
-- 👨‍💻 All of my projects are available at [https://qazimaazarshad.github.io/My-Portfolio/](https://qazimaazarshad.github.io/My-Portfolio/)
+- 🌱 I’m currently learning **React Redux** 
+- 👨‍💻 All of my projects are available at [https://stellashank.github.io/](https://stellashank.github.io/)
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **qazimaazarshad@gmail.com**
+
+- 📫 How to reach me **stellarshank@gmail.com**
 
 - 📄 Know about my experience's [https://tinyurl.com/MaazResume](https://tinyurl.com/MaazResume)
 
