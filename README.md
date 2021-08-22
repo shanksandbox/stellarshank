@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **stellarshank@gmail.com**
 
-- 📄 Know about my experience's [https://tinyurl.com/MaazResume](https://tinyurl.com/MaazResume)
+- 📄 Know about my experience's 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
