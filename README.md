@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Shashank Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stellarshank&label=Profile%20views&color=0e75b6&style=flat" alt="stellarshank" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qazimaazarshad&label=Profile%20views&color=0e75b6&style=flat" alt="qazimaazarshad" /> </p>
+
 
 
 <img align="right" alt="Coding" width="210" height="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
