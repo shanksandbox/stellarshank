@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" height="300" src="https://i.postimg.cc/0QCNQqRh/link.jpg)](https://postimg.cc/8JjGK9Cb">
+<img align="center" alt="Coding" width="100%" height="300" src="[![1683972882193.jpg](https://i.postimg.cc/6332mBrL/1683972882193.jpg)](https://postimg.cc/DW9wWkY8)">
 <h1 align="center">Hi 👋, I'm Shashank Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer </h3>
 
